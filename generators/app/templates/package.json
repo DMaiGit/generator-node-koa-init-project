@@ -1,6 +1,6 @@
 {
   "name": "node_koa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a koa project based on node initialization and requires your node version to be at least V14.7.0",
   "main": "index.js",
   "scripts": {

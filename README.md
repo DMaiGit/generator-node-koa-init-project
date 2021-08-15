@@ -13,7 +13,7 @@ npm install -g generator-node-koa-init-project
 Then generate your new project:
 
 ```bash
-yo node-koa-init
+yo node-koa-init-project
 ```
 
 ## Getting To Know Yeoman

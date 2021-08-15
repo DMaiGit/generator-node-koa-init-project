@@ -2,7 +2,7 @@
   "name": "generator-node-koa-init",
   "version": "1.0.0",
   "description": "This is a koa project based on node initialization and requires your node version to be at least V14.7.0",
-  "homepage": "github.com/scxiaoxu/node_koa",
+  "homepage": "github.com/scxiaoxu/generator-node-koa-init",
   "author": {
     "name": "scxiaoxu",
     "email": "scxiaoxu0909@163.com",
@@ -78,6 +78,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "git@github.com:scxiaoxu/node_koa.git",
+  "repository": "git@github.com:scxiaoxu/generator-node-koa-init.git",
   "license": "MIT"
 }
